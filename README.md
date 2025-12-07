@@ -13,6 +13,8 @@ cd metadrive
 
 pip install -e .
 
+pip install "stable-baselines3[extra]"
+
 
 python experiments/random_lane_keeping.py 0
 
