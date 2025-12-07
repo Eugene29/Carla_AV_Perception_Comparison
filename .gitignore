@@ -1,0 +1,13 @@
+*.pyc
+*.jpg
+*.png
+*.txt
+*.log
+__pycache__
+*.mp4
+
+# bash script only for now.
+*.py
+
+# folders
+Carla
