@@ -10,12 +10,19 @@ run.sh (change ROOT directory here)
 
 # Running MetaDrive Simulation
 cd metadrive
+
 pip install -e .
 
+
 python experiments/random_lane_keeping.py 0
+
 python experiments/random_lane_keeping.py 1
+
 python experiments/random_lane_keeping.py 2
 
+
 python experiments/ppo_lane_keeping.py 0
+
 python experiments/ppo_lane_keeping.py 1
+
 python experiments/ppo_lane_keeping.py 2
