@@ -15,7 +15,7 @@ run.sh (change ROOT directory here)
 ## Running MetaDrive Simulation
 
 Follow the steps below to set up the MetaDrive environment, install
-dependencies, run training, and visualize trained agents.
+dependencies, run training, and visualize trained agents after cloning this repo
 
 ### 1. Navigate to the project directory
 
