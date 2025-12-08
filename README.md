@@ -1,5 +1,8 @@
 # This folder contains scripts for running CARLA in headless mode.
 
+## Demo Video
+https://youtu.be/rWp0JL7KcdY
+
 ## File structure
 
 ROOT\
