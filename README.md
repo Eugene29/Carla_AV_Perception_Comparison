@@ -1,17 +1,5 @@
-# This folder contains scripts for running CARLA in headless mode.
-
 ## Demo Video
 https://youtu.be/rWp0JL7KcdY
-
-## File structure
-
-ROOT\
-ROOT/Carla\
-ROOT/Autonomous-Driving-in-Carla-using-Deep-Reinforcement-Learning
-
-## Entry script
-
-run.sh (change ROOT directory here)
 
 ------------------------------------------------------------------------
 
